@@ -5,4 +5,8 @@ let numberInput = document.querySelector('#numberInpur')
 
 
 // Event listeners
-numberInput.addEventListener('input', getFactAJAC)
+numberInput.addEventListener('input', getFactAJAX);
+
+function getFactAJAX() {
+    
+}
