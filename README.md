@@ -1,4 +1,5 @@
 # Interesting Numbers
+![A screenshot of application](assets/screenshot.png)
 > The only fun way to make numbers intesting - associating them with fun facts!
 ## About
 ### Use
@@ -14,5 +15,3 @@ This project is licensed under the Unlicense.
 > [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
 ## Screenshots
-![Screenshot of application](assets/screenshot.png)
-> A screenshot of the application.
