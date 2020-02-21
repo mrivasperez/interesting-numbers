@@ -8,5 +8,8 @@ let numberInput = document.querySelector('#numberInpur')
 numberInput.addEventListener('input', getFactAJAX);
 
 function getFactAJAX() {
-    
+    let number = numberInput.value;
+    let xhr = new XMLHttpRequest();
+    xhr.open('GET', `http://numbersapi.com/${number}/math`);
+
 }
