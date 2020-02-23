@@ -6,6 +6,7 @@
 Run index.html in a browser. Try it - [Interesting Numbers](https://mrivasperez.github.io/interesting-numbers/)
 
 ## Information
+### Not working on Github Pages because API does not have HTTPS.
 ### Author
 [Miguel Rivas Perez](https://github.com/mrivasperez)
 ### Acknowledgements
